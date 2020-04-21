@@ -1,0 +1,4 @@
+#Ignore Everyting in root except for TwoXFour
+/*
+!.gitignore
+!TwoXFour/*
