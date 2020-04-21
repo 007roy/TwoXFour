@@ -1,9 +1,0 @@
-{
-    "description": "Configuration for TwoXFour",
-    "visual_studio_name": "TwoXFour",
-    "comment" : "",
-    "game_projects" : "TwoXFour",
-
-    "modules" : [
-    ]
-}
