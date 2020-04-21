@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## TwoXFour
 
-You can use the [editor on GitHub](https://github.com/007roy/TwoXFour/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+An ambition project to build an open survival RPG game framework on Amazon's Lumberyard. 
+TwoXFour will work for single or multiplayer. The current goal is to support up to 100 players. No story, lore, or fancy assets. Just a bare minimum to test functionality. The focus is building a fully functional set of game features for modding.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Planed Features
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/007roy/TwoXFour/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Inventory System
+- Melee Combat
+- Range Combat
+- Dialog System
+- In Game UI
+- Player Placeables
+- Mini-games (lockpicking, puzzles, etc)
+- Random Loot generator
+- Player Managment
+- Team / Clan Systems
+- Recipies / Crafting Stations
+- Player Stats / Skill System
+- NPCs / AI
