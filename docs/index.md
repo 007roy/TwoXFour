@@ -5,6 +5,7 @@ TwoXFour will work for single or multiplayer. The current goal is to support up 
 
 ### Planed Features
 
+- Server Authoritative Multiplayer
 - Inventory System
 - Melee Combat
 - Range Combat
