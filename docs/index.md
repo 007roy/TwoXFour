@@ -13,7 +13,7 @@ TwoXFour will work for single or multiplayer. The current goal is to support up 
 - In Game UI
 - Player Placeables
 - Mini-games (lockpicking, puzzles, etc)
-- Random Loot generator
+- Procedural Loot generator
 - Player Managment
 - Team / Clan Systems
 - Recipies / Crafting Stations
