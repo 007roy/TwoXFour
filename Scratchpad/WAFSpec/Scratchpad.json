@@ -1,0 +1,9 @@
+{
+    "description": "Configuration for Scratchpad",
+    "visual_studio_name": "Scratchpad",
+    "comment" : "",
+    "game_projects" : "Scratchpad",
+
+    "modules" : [
+    ]
+}

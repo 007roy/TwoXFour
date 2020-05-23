@@ -1,0 +1,18 @@
+
+def build(bld):
+    bld.DefineGem(
+        # General
+        includes                = ['Include'],
+        use                     = ['AzGameFramework'],
+        disable_pch             = True,
+        file_list               = ['scratchpad.waf_files'],
+
+        # Platform Roots
+        platform_roots          = [bld.PlatformRoot('Platform', export_includes=False)],
+
+        # Testing
+        test_all_file_list      = ['scratchpad_tests.waf_files'],
+
+        # Add additional custom build options here
+        # ...
+    )

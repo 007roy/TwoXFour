@@ -1,0 +1,12 @@
+<Material MtlFlags="524544" DccMaterialHash="0" vertModifType="0">
+ <SubMaterials>
+  <Material Name="jack" MtlFlags="524416" DccMaterialHash="0" Shader="Illum" GenMask="200A20000000003" StringGenMask="%ALLOW_SILHOUETTE_POM%ALLOW_SPECULAR_ANTIALIASING%NORMAL_MAP%PHONG_TESSELLATION%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_default" Diffuse="0.80000001,0.80000001,0.80000001,1" Specular="0.5,0.5,0.5,1" Opacity="1" Shininess="3.4240742" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="AnimationSamples/Simple_JackLocomotion/jack_d.dds"/>
+    <Texture Map="Bumpmap" File="animationsamples/simple_jacklocomotion/jack_ddn.dds"/>
+    <Texture Map="Specular" File="AnimationSamples/Simple_JackLocomotion/jack_s.dds"/>
+   </Textures>
+   <PublicParams TessellationFaceCull="0.75" EmittanceMapGamma="1" TessellationFactor="1" SSSIndex="0" TessellationFactorMax="32" TessellationFactorMin="1" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+ </SubMaterials>
+</Material>

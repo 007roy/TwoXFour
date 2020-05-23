@@ -1,0 +1,17 @@
+
+def build(bld):
+    bld.DefineGem(
+        # General
+        includes                = [bld.Path('Code/CryEngine/CryCommon')],
+        disable_pch             = True,
+        file_list               = ['serverauthoritativemultiplayer.waf_files'],
+
+        # Platform Roots
+        #platform_roots          = [bld.PlatformRoot('Platform', export_includes=False)],
+
+        # Testing
+        test_all_file_list      = ['serverauthoritativemultiplayer_tests.waf_files'],
+
+        # Add custom build options here
+        use                     = ['LmbrCentral', 'EMotionFXStaticLib'],
+)

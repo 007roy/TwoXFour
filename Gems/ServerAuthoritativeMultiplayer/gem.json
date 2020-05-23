@@ -1,0 +1,15 @@
+{
+    "GemFormatVersion": 4,
+    "Uuid": "4cb27a4eb78649c7b21e829b0792a3dd",
+    "Name": "ServerAuthoritativeMultiplayer",
+    "DisplayName": "ServerAuthoritativeMultiplayer",
+    "Version": "0.1.0",
+    "Summary": "A Gem to enable server authoritative multiplayer.",
+    "Tags": ["TwoXFour"],
+    "IconPath": "preview.png",
+    "Modules": [
+        {
+            "Type": "GameModule"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "none":
+    {
+        "Include":
+        [
+            "Include/Scratchpad/ScratchpadBus.h"
+        ],
+        "Source":
+        [
+            "Source/ScratchpadModule.cpp",
+            "Source/ScratchpadSystemComponent.cpp",
+            "Source/ScratchpadSystemComponent.h"
+        ]
+    }
+}

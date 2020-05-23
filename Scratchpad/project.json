@@ -1,0 +1,14 @@
+{
+    "project_name": "Scratchpad",
+    "product_name": "Scratchpad",
+    "executable_name": "ScratchpadLauncher",
+    "modules" : [],
+    "project_id": "{1A7F50F2-DDC8-42F3-B186-6501427FAC05}",
+
+    "android_settings" : {
+        "package_name" : "com.lumberyard.yourgame",
+        "version_number" : 1,
+        "version_name" : "1.0.0",
+        "orientation" : "landscape"
+    }
+}

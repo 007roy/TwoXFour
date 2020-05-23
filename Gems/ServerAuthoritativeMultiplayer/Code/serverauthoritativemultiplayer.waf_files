@@ -1,0 +1,26 @@
+{
+    "none":
+    {
+        "Include":
+        [
+            "Include/ServerAuthoritativeMultiplayer/ServerAuthoritativeMultiplayerBus.h",
+            "Include/ServerAuthoritativeMultiplayer/LocalPlayerBodyNotificationBus.h",
+            "Include/ServerAuthoritativeMultiplayer/PlayerControlsRequestBus.h",
+            "Include/ServerAuthoritativeMultiplayer/ServerPlayerControlsNotificationBus.h",
+            "Include/ServerAuthoritativeMultiplayer/LocalClientNotificationBus.h",
+            "Include/ServerAuthoritativeMultiplayer/ServerPlayerBodyBus.h"
+        ],
+        "Source":
+        [
+            "Source/ServerAuthoritativeMultiplayerModule.cpp",
+            "Source/ServerAuthoritativeMultiplayerSystemComponent.cpp",
+            "Source/ServerAuthoritativeMultiplayerSystemComponent.h",
+            "Source/PlayerActionRelayComponent.h",
+            "Source/PlayerActionRelayComponent.cpp",
+            "Source/ServerAuthPlayerComponent.h",
+            "Source/ServerAuthPlayerComponent.cpp",
+            "Source/ServerPlayerSpawnerComponent.h",
+            "Source/ServerPlayerSpawnerComponent.cpp"
+        ]
+    }
+}
