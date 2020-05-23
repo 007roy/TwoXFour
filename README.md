@@ -1,7 +1,7 @@
 # TwoXFour
 An open survival RPG game framework built on Amazon's Lumberyard. 
 
-### Server Authroitative Multipleayr Gem
+### Server Authroitative Multiplayer Gem
 - Very basic 5 way control with example Scripts.
 
 ### Scratchpad game
